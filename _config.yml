@@ -568,8 +568,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 for(let x of document.getElementsByClassName("v"))
                   new Valine({
                     "el": x,
-                    "appId": "JQf3G23Xx6o2fV4hjbxf4hpv-gzGzoHsz",
-                    "appKey": "N3robkjUEW2RkMd6L3FNd2N1",
+                    "appId": "LzsmiXG5mhvTb691JLF0hl9n-MdYXbMMI",
+                    "appKey": "IBaIwe4frXRS13uPt2jnnlo9",
                     "placeholder": "在这里评论吧！填写邮箱可以获得 Gravatar 头像和回复通知哦",
                     "requiredFields": ["nick","mail"],
                     "visitor": true,
